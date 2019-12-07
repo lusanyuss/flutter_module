@@ -73,7 +73,7 @@ Future<AAR> handleFlutter() async {
   );
 
   print(processResult.stdout);
-  var name = "flutter-1.0.aar";
+  var name = "flutter-release.aar";
   var file = File(basePath +
       "flutter_module\\.android\\Flutter\\build\\outputs\\aar\\" +
       name);
