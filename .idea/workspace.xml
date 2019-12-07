@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3754ffe3-7f42-4c8d-ba44-6eaa70ec062f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/FlutterFragmentPageActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/MyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/NativePageActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/PageRouter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/TextPlatformViewFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/TextPlatformViewPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/res/drawable-xhdpi/page_loading.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/res/layout/flutter_fragment_page.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-host/app/src/main/res/layout/native_page.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-host/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-host/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-host/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-host/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/FlutterFragmentPageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/FlutterFragmentPageActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-host/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/MyFlutterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/NativePageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-host/app/src/main/java/top/kikit/androidhost/NativePageActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-host/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-host/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-host/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android-host/gradle.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/android-host/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="201">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="23" />
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -151,9 +146,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="475" />
-    <option name="y" value="150" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="314" />
+    <option name="y" value="89" />
     <option name="width" value="1247" />
     <option name="height" value="884" />
   </component>
@@ -271,7 +266,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="475" y="150" width="1247" height="884" extended-state="1" />
+    <frame x="314" y="89" width="1247" height="884" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32230705" />
@@ -282,7 +278,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.45504385" />
-      <window_info anchor="bottom" id="Run" order="1" visible="true" weight="0.3479452" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.3479452" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16885965" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.041666668" />
@@ -420,7 +416,7 @@
     <entry file="file://$PROJECT_DIR$/android-host/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="23" />
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="27" />
         </state>
       </provider>
     </entry>
